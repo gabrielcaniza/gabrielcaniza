@@ -1,7 +1,7 @@
 # Olá! Eu me Gabriel Caniza 🖐️
 
 <h3>Sobre mim</h3>
-<p>Sou um <strong>Desenvolvedor Backend</strong> atualmente matriculado no curso de Engenharia de Software. Encontro-me no Terceiro período da universidade. Atualmente, concentro a maior parte dos meus estudos no âmbito do desenvolvimento Full Stack, utilizando tecnologias como Java, Springboot, MySql, HTML5, CSS3, JavaScript, , Bootstrap, e Git/GitHub.
+<p>Sou um <strong>Desenvolvedor Backend</strong>  cursando Engenharia de Software. Encontro-me no Terceiro período da universidade. Atualmente, concentro a maior parte dos meus estudos no âmbito do desenvolvimento Back end, utilizando tecnologias como Java, Springboot, MySql, HTML5, CSS3, JavaScript, , Bootstrap, e Git/GitHub.
 
 <div>
   <img height="150em" width="45%" src="https://github-readme-stats.vercel.app/api?username=gabrielcaniza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
