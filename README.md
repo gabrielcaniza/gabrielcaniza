@@ -1,4 +1,4 @@
-# Olá! Eu me Gabriel Caniza 🖐️
+# Olá! Eu me chamo Gabriel Caniza 🖐️
 
 <h3>Sobre mim</h3>
 <p>Sou um <strong>Desenvolvedor Backend</strong>  cursando Engenharia de Software. Encontro-me no Terceiro período da universidade. Atualmente, concentro a maior parte dos meus estudos no âmbito do desenvolvimento Back end, utilizando tecnologias como Java, Springboot, MySql, HTML5, CSS3, JavaScript, , Bootstrap, e Git/GitHub.
