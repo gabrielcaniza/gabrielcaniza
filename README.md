@@ -13,6 +13,7 @@
   <div style="display: inline-block; text-align: center;">
     <h1>Linguagens e Ferramentas</h1>
     <img height="60" width="60" alt="js-icon" src="https://w7.pngwing.com/pngs/1011/30/png-transparent-java-runtime-environment-java-development-kit-computer-software-macos-gucci-logo-miscellaneous-text-logo.png">
+    <img height="60" width="60" alt="Sql-icon" src="https://th.bing.com/th/id/OIP.8DcrEUAWpoVmyvWG78zVywAAAA?rs=1&pid=ImgDetMain">
     <img height="60" width="" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/spring-boot-1_5zDxm9B.jpg" alt="spring">
     <img height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="mysql">
     <img height="60" width="60" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
